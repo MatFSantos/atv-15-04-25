@@ -25,4 +25,4 @@ Foram utilizados os seguintes periféricos no projeto, para satisfazer as exigê
 
 ## Vídeo ensaio
 
-Clique em ***[link do video]()*** para visualizar o vídeo ensaio do projeto.
+Clique em ***[link do video](https://drive.google.com/file/d/1vufUato1I4NIjeHJV0i-9OtVfFEVcOxx/view?usp=sharing)*** para visualizar o vídeo ensaio do projeto.
